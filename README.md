@@ -9,7 +9,7 @@ This project analyzes retail sales data using SQL. It covers data exploration, s
 ## Dataset
 - Orders
 - Product Supplier
-- Dataset Size: **10,000+ records**
+- Dataset Size: **1,50,000+ records**
 
 ## Tools Used
 - MySQL Workbench
@@ -28,8 +28,8 @@ This project analyzes retail sales data using SQL. It covers data exploration, s
 - Sales & Customer Analysis
 
 ## Project Highlights
-- Analyzed **10,000+ retail sales records**
-- Wrote **70+ SQL queries**
+- Analyzed **1,50,000+ retail sales records**
+- Wrote **50+ SQL queries**
 - Covered beginner to advanced SQL concepts
 - Performed sales, product, supplier, and customer analysis
 - Identified monthly sales trends and business insights
